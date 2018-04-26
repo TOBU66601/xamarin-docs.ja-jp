@@ -1,5 +1,5 @@
 ---
-title: 第 2 章の概要です。 アプリの構造
+title: 第 2 章 アプリの構造
 ms.prod: xamarin
 ms.technology: xamarin-forms
 ms.assetid: 8764EB7D-8331-4CF7-9BE1-26D0DEE9E0BB
@@ -12,7 +12,7 @@ ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/04/2018
 ---
-# <a name="summary-of-chapter-2-anatomy-of-an-app"></a>第 2 章の概要です。 アプリの構造
+# <a name="summary-of-chapter-2-anatomy-of-an-app"></a>第 2 章 アプリの構造
 
 Xamarin.Forms のアプリケーションで画面上の領域を占有するオブジェクトと呼ばれる*視覚要素*、によってカプセル化、 [ `VisualElement` ](https://developer.xamarin.com/api/type/Xamarin.Forms.VisualElement/)クラス。 ビジュアル要素は、これらのクラスに対応する 3 つのカテゴリに分割できます。
 
