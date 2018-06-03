@@ -15,14 +15,15 @@ ms.lasthandoff: 04/04/2018
 ---
 # <a name="creating-mobile-apps-with-xamarinforms-book-first-edition"></a>Xamarin.Forms 書籍の最初のエディションでモバイル アプリの作成
 
-<p><img src="Images/Cover-sml.png" title="Xamarin.Forms 帳を使用してモバイル アプリの作成" align="left" />Charles Petzold 最新 book - <i>Xamarin.Forms を使用したモバイル アプリを作成する</i> - (電子) を押してが送信され、ダウンロードするようになりました。</p>
+<p><img src="Images/Cover-sml.png" title="Xamarin.Forms 帳を使用してモバイル アプリの作成" align="left" />Charles Petzold 最新本 - <i>Xamarin.Forms を使用したモバイル アプリを作成する</i> - (電子) を押して、ダウンロードできるようになりました。</p>
 
-これは、*初版*27 のチャプターがあり、Xamarin.Forms をカバー&nbsp;2.x アニメーション、MVVM、トリガー、動作、カスタム レイアウト、カスタムのレンダラーでいっそうなどです。
+これは、27 のチャプターがあり、Xamarin.Forms をカバー&nbsp;2.x アニメーション、MVVM、トリガー、動作、カスタム レイアウト、カスタムのレンダラーでいっそうなどです。
+
 28 章も現在オンライン以下に示す個々 のチャプター間できます。
 
-## <a name="download-ebook-for-free"></a>電子を無料でダウンロードします。
+## <a name="download-ebook-for-free"></a>電子書籍を無料でダウンロードします。
 
-Microsoft Virtual Academy から、優先される電子形式をダウンロードします。
+Microsoft Virtual Academy から、推奨される電子書籍をダウンロードします。
 
 *    [**PDF (56Mb)**](https://aka.ms/xamebook)
 
@@ -32,7 +33,7 @@ Microsoft Virtual Academy から、優先される電子形式をダウンロー
 
 ## <a name="samples"></a>サンプル
 
-サンプルは[github で利用可能](https://github.com/xamarin/xamarin-forms-book-samples)、含める[Xamarin.Forms for Windows](~/xamarin-forms/platform/windows/index.md) Windows 8.1、Windows Phone 8.1、および Windows 10 用の UWP プロジェクト。
+サンプルは[github で利用可能](https://github.com/xamarin/xamarin-forms-book-samples)、[Xamarin.Forms for Windows](~/xamarin-forms/platform/windows/index.md) Windows 8.1、Windows Phone 8.1、および Windows 10 用の UWP プロジェクトが含まれます。
 
 ## <a name="chapter-summaries"></a>章の概要
 
